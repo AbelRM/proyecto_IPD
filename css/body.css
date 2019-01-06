@@ -1,0 +1,85 @@
+footer{
+   
+  
+    position: fixed; left: 0; bottom: 0; width: 100%;}
+
+
+
+.card-body{
+    
+    border-radius: 0px 0px 10px 10px;
+}
+
+.card-head{
+     border-radius: 10px 10px 0px 0px;
+    background: #f7f7f7;
+}
+
+.card{
+    border-radius: 10px 10px 0px 0px;
+}
+.barra{
+ 
+  
+    border-radius: 10px 10px 10px 10px;
+     box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.75);
+}
+html{
+   
+}
+.navbar{
+    font-size: 17px;
+    opacity: 0.95;
+}
+   .fades
+{
+        opacity:0.85;
+    transition: all 0.14s ease;
+    color: black;
+     font-size: 100%;
+   
+    
+   
+}
+
+    .fades:hover
+{
+-webkit-transform: scale(1.0);
+-ms-transform: scale(1.0);
+transform: scale(1.0);
+transition: all 0.3s ease;
+color: #dc3545;
+}
+   .sombrear
+{
+        
+    transition: all 0.34s ease;
+    background-color: white;
+     font-size: 100%;
+   
+    
+   
+}
+  .sombrear:hover
+{
+-webkit-transform: scale(1.0);
+-ms-transform: scale(1.0);
+transform: scale(1.0);
+transition: all 0.3s ease;
+background-color: #F1F1F1;
+}
+
+label{
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+.b{
+    font-weight: bold;
+}
+.btn{
+    opacity: 0.90;
+     
+    
+    font-weight: 520;
+    box-shadow: 1px 1px 1px 1px rgba(0,0,0,0.75);
+}
